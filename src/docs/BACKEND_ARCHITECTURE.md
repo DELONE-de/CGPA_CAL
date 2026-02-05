@@ -489,3 +489,6 @@ export const getDepartmentReport = (departmentId: string, level: number, semeste
 - **PXU** = Grade Point × Course Unit
 - **GPA** = Sum(PXU) / Sum(Units)
 - **CGPA** = Sum(All PXU) / Sum(All Units)
+
+
+url: https://cgpa-cal.onrender.com
